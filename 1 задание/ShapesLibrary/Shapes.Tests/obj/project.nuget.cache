@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9TmPnoFh6OuKAcaTjnVPL93up7ysOP4n0gNbgUqqtrm/sdpXew+F7JE7BIXGUXXhtqZHjcS3JEo8r2atx1bEsQ==",
+  "dgSpecHash": "Kn33agfc0G0jYsieIZo+pVQSFud2TgCXdOmGFQQz4Zc1UZuqR/s2Q1vuV1XNQOnNV/ceLYn/MTsu5Isnn7DBsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\maker\\source\\repos\\ShapesLibrary\\Shapes.Tests\\Shapes.Tests.csproj",
+  "projectFilePath": "C:\\Users\\maker\\source\\repos\\Postolovsky_Mindbox\\1 задание\\ShapesLibrary\\Shapes.Tests\\Shapes.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maker\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\maker\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

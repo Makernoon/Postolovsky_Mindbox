@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maker\\source\\repos\\ShapesLibrary\\Shapes\\Shapes.csproj": {}
+    "C:\\Users\\maker\\source\\repos\\Postolovsky_Mindbox\\1 задание\\ShapesLibrary\\Shapes\\Shapes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maker\\source\\repos\\ShapesLibrary\\Shapes\\Shapes.csproj": {
+    "C:\\Users\\maker\\source\\repos\\Postolovsky_Mindbox\\1 задание\\ShapesLibrary\\Shapes\\Shapes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maker\\source\\repos\\ShapesLibrary\\Shapes\\Shapes.csproj",
+        "projectUniqueName": "C:\\Users\\maker\\source\\repos\\Postolovsky_Mindbox\\1 задание\\ShapesLibrary\\Shapes\\Shapes.csproj",
         "projectName": "Shapes",
-        "projectPath": "C:\\Users\\maker\\source\\repos\\ShapesLibrary\\Shapes\\Shapes.csproj",
+        "projectPath": "C:\\Users\\maker\\source\\repos\\Postolovsky_Mindbox\\1 задание\\ShapesLibrary\\Shapes\\Shapes.csproj",
         "packagesPath": "C:\\Users\\maker\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maker\\source\\repos\\ShapesLibrary\\Shapes\\obj\\",
+        "outputPath": "C:\\Users\\maker\\source\\repos\\Postolovsky_Mindbox\\1 задание\\ShapesLibrary\\Shapes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
